@@ -1,0 +1,12 @@
+.menu {
+    width: 1fr;
+    height: 10%;
+    background-color: $color-menubar-bckgrnd;
+
+    &-bx {
+        margin: 10px;
+        background-color: royalblue;
+        padding: 5px;
+        display: inline-block;
+    }
+}
